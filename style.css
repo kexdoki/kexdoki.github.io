@@ -265,3 +265,7 @@ section {
     overflow: hidden;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
+
+#tamogatas a {
+    background: linear-gradient(to bottom, #3a7bd5, #2a5ca3);
+}
